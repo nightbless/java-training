@@ -1,0 +1,2 @@
+public class MainClass2 {
+}
